@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_update">Update Schedules</string>
+    <string name="app_name">Ferries Timetable</string>
+    <string name="no_docks">No docks found; Please update schedules.</string>
+</resources>
